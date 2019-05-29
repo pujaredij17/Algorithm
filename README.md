@@ -1,2 +1,2 @@
 # Algorithm
-Basic algorithms in python
+Basic algorithms in Python
